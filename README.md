@@ -212,5 +212,5 @@ Bangladesh generates the highest support ticket volume per 1,000 failures in the
 
 This project is part of a professional data analytics portfolio built to demonstrate end-to-end analytical capability across SQL, Power BI and business storytelling. The dataset was synthetically generated to reflect realistic cross-border payment patterns and contains intentional data quality issues to demonstrate practical data cleaning skills.
 
-For questions or feedback, feel free to connect on LinkedIn.
+
 
